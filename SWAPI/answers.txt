@@ -1,0 +1,12 @@
+1. 202 (https://swapi.dev/api/people/4/)
+2. 2000000000 (https://swapi.dev/api/planets/2/)
+3. Corellian Engineering Corporation (https://swapi.dev/api/starships/10/)
+4. Droid (https://swapi.dev/api/people/2/) to get to C-3PO then (https://swapi.dev/api/species/2/) to get the species
+5. 6 movies(https://swapi.dev/api/people/10/) to get Obi-Wan then (https://swapi.dev/api/films/1/, through https://swapi.dev/api/films/6/) to get the movies
+    a. A New Hope (https://swapi.dev/api/films/1/)
+    b. The Empire Strikes Back (https://swapi.dev/api/films/2/)
+    c. Return of the Jedi (https://swapi.dev/api/films/3/)
+    d. The Phantom Menace (https://swapi.dev/api/films/4/)
+    e. Attack of the Clones (https://swapi.dev/api/films/5/)
+    f. Revenge of the Sith (https://swapi.dev/api/films/6/)
+6. https://swapi.dev/api/starships/?search=mil
